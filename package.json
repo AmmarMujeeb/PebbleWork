@@ -1,0 +1,24 @@
+{
+    "author": "ammar.mujeeb@hotmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "helloworld",
+    "pebble": {
+        "displayName": "HelloWorld",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite"
+        ],
+        "uuid": "188aa018-bc18-4d5d-a58f-fbe3e18f6f0c",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
